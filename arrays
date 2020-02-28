@@ -1,0 +1,3 @@
+my_array = []
+my_other_array = Array.new
+
